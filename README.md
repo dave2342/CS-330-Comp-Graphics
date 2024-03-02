@@ -1,6 +1,6 @@
 # CS-330-Comp-Graphics
 
-How do I approach designing software?
+How do I approach designing software?  
 When designing software, I like to figure out a plan before starting the actual development. This requires reading the requirements until I fully understand the goals of the development, and usually creating a written outline or things I want to include.
 What new design skills has your work on the project helped you to craft?
 I had no real design skills previous to this course. Working on the project in this course has helped me understand how to create shapes, colors, lighting, and even camera controls!
