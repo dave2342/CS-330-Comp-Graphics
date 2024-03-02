@@ -1,14 +1,19 @@
 # CS-330-Comp-Graphics
 
 How do I approach designing software?  
+
 When designing software, I like to figure out a plan before starting the actual development. This requires reading the requirements until I fully understand the goals of the development, and usually creating a written outline or things I want to include.  
   
-What new design skills has your work on the project helped you to craft?  
+What new design skills has your work on the project helped you to craft? 
+
 I had no real design skills previous to this course. Working on the project in this course has helped me understand how to create shapes, colors, lighting, and even camera controls!  
 
 What design process did you follow for your project work?  
+
 Since we were tasked with taking a 2D image and creating a 3D version, I worked on each object one at a time. The goal was to finish each object as it's own segment.  
+
 How could tactics from your design approach be applied in future work?  
+
 I believe working in segments is the best way to approach software development. If I were to work on multiple objects or portions of the project, I would probably end up messing some part of the code up, or getting myself confused.  
 
 How do I approach developing programs?  
